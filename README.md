@@ -19,8 +19,10 @@
     Curso Ciência da Computação, pela Universidade Anhanguera. Estou no 7º semestre, aprendendo todos os dias coisas novas, me preparando cada vez mais para ser melhor do que o dia anterior.
 </p>
 
+
+
+<img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&theme=dark" />
+
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=KelvinMarcondes&show_icons=true&theme=dark" />
  
 <img align="left" width=47% src="http://github-readme-streak-stats.herokuapp.com?user=KelvinMarcondes&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&background=141414" />
-
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&layout=compact&theme=dark" />
