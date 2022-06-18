@@ -27,6 +27,7 @@
 </div> <!--Ferramentas-->
 	
 <div align=left> <!--Social-->
+	<p>Fale comigo :)</p>
 	<a href="https://www.facebook.com/KelvinMarcondees">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30"/>
 	</a>
