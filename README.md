@@ -1,7 +1,7 @@
 <div> <!-- APRESENTAÇÃO -->
 	<h2 align=center>
 		Olá, tudo bem? Seja bem-vindo(a)!
-		<img width=30px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
+		<img width=25px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
 	</h2>
 	<p>
 		Sobre mim: <br>
@@ -11,8 +11,11 @@
 	</p>
 	<p>
 		Meus idiomas: <br>
+		<img width=25px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
 		PORTUGUÊS: Nativo (Fluente/avançado) <br>
+		<img width=25px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/united_states_icon_127943.png"/>
 		INGLÊS: B2 (Leitura/Escrita: mediana e Conversação: baixa) <br>
+		<img width=25px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/spain_icon_127825.png"/>
 		ESPANHOL: B2 (Leitura/Escrita: mediana/Alta e Conversação: baixa/mediana) <br>
 	</p>
 </div> <!-- APRESENTAÇÃO -->
