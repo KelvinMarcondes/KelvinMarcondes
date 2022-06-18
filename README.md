@@ -21,8 +21,8 @@
 </div> <!-- APRESENTAÇÃO -->
 
 <div align=center> <!--Painels-->
-	<img height=49% src="https://github-readme-stats.vercel.app/api?username=KelvinMarcondes&show_icons=true&theme=dark"/>
-	<img width=41% src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&layout=compact&theme=dark"/>
+	<img width=47% src="https://github-readme-stats.vercel.app/api?username=KelvinMarcondes&show_icons=true&theme=dark"/>
+	<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&layout=compact&theme=dark"/>
 
 </div> <!--Painels-->
 
