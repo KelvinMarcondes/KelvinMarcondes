@@ -1,7 +1,7 @@
 <div> <!-- APRESENTAÇÃO -->
 	<h2 align=center>
 		Olá, tudo bem? Seja bem-vindo(a)!
-		<img width=30px src="https://openmoji.org/data/color/svg/1F1E7-1F1F7.svg"/>
+		<img width=30px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
 	</h2>
 	<p>
 		Sobre mim: <br>
@@ -26,15 +26,19 @@
 
 <div align=left> <!--Ferramentas-->
 	<p>O que eu uso: </p>
-	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" title="JAVA" alt="JAVA" height="40"/>
-	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/python_icon_130849.png" title="PYTHON" alt="PYTHON" height="40"/>
-	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" title="HTML" alt="HTML" height="40"/>
-	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" title="CSS" alt="CSS" height="40"/>
-	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" title="JS" alt="JS" height="40"/>
-	<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/vs-code-responsive-01.svg" title="VSCode" alt="VSCode" height="40"/>
-	<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" title="Eclipse" alt="Eclipse" height="40"/>
-	<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" title="Mysql" alt="Mysql" height="40"/>
-	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" title="Git" alt="Git" height="40"/>
+	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" title="JAVA" alt="JAVA" widht="40" height="40"/>
+	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/python_icon_130849.png" title="PYTHON" alt="PYTHON" widht="40" height="40"/>
+	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" title="JS" alt="JS" widht="40" height="40"/>
+	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" title="HTML" alt="HTML" widht="40" height="40"/>
+	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" title="CSS" alt="CSS" widht="40" height="40"/>
+	<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/vs-code-responsive-01.svg" title="VSCode" alt="VSCode" widht="40" height="40"/>
+	<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" title="Eclipse" alt="Eclipse" widht="40" height="40"/>
+	<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" title="NetBeans" alt="NetBeans" widht="40" height="40"/>
+	<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" title="Mysql" alt="Mysql" widht="40" height="40"/>
+	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png" title="OracleDB" alt="OracleDB" widht="40" height="40"/>
+	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" title="Git" alt="Git" widht="40" height="40"/>
+	<img src="" title="" alt="" height="40"/>
+	<img src="" title="" alt="" height="40"/>
 	<img src="" title="" alt="" height="40"/>
 	<img src="" title="" alt="" height="40"/>
 </div> <!--Ferramentas-->
