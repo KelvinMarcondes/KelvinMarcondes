@@ -11,9 +11,9 @@
 	</p>
 	<p>
 		Meus idiomas: <br>
-		Portugues: Nativo (Fluente/avançado) <br>
-		Inglês: B2 (Leitura/Escrita: mediana e Conversação: baixa) <br>
-		Espanhol: b2 (Leitura/Escrita: mediana e Conversação: baixa/mediana) <br>
+		PORTUGUÊS: Nativo (Fluente/avançado) <br>
+		INGLÊS: B2 (Leitura/Escrita: mediana e Conversação: baixa) <br>
+		ESPANHOL: B2 (Leitura/Escrita: mediana/Alta e Conversação: baixa/mediana) <br>
 	</p>
 </div> <!-- APRESENTAÇÃO -->
 
@@ -56,11 +56,3 @@
 	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
 	</a>
 </div> <!--Social-->
-
-<!--	<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
--->
