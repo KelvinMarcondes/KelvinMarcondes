@@ -29,15 +29,15 @@
 <div align=left> <!--Social-->
 	<p>Fale comigo :)</p>
 	<a href="https://www.facebook.com/KelvinMarcondees">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30"/>
+	<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
 	</a>
 	<a href="https://www.linkedin.com/in/kelvin-marcondes/">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
 	</a>
 	<a href="https://www.instagram.com/kelvinmarcondees/">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30"/>
+	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
 	</a>
 	<a href="https://api.whatsapp.com/send?phone=5511973480829">
-	<img src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" width="30" height="30"/>
+	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
 	</a>
 </div> <!--Social-->
