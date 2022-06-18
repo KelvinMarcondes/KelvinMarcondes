@@ -28,3 +28,18 @@
 </div>
 
 ##
+
+<div>
+	<a href="https://www.facebook.com/KelvinMarcondees">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30"/>
+	</a>
+	<a href="https://www.linkedin.com/in/kelvin-marcondes/">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
+	</a>
+	<a href="https://www.instagram.com/kelvinmarcondees/">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30"/>
+	</a>
+	<a href="https://api.whatsapp.com/send?phone=5511973480829">
+	<img src="https://seeklogo.com/images/W/whatsapp-icon-logo-BDC0A8063B-seeklogo.com.png" width="30" height="30"/>
+	</a>
+</div>
