@@ -14,9 +14,9 @@
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
 		PORTUGUÊS: Nativo (Fluente/avançado) <br>
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/united_states_icon_127943.png"/>
-		INGLÊS: B2 (Leitura/Escrita: mediana e Conversação: baixa) <br>
+		INGLÊS: B2 (Leitura/Escrita: mediana e Conversação: básica) <br>
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/spain_icon_127825.png"/>
-		ESPANHOL: B2 (Leitura/Escrita: mediana/Alta e Conversação: baixa/mediana) <br>
+		ESPANHOL: B2 (Leitura/Escrita: mediana/alta e Conversação: básica++) <br>
 	</p>
 </div> <!-- APRESENTAÇÃO -->
 <div align=center> <!--Painels-->
