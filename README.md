@@ -8,6 +8,7 @@
 	Me chamo Kelvin, sou desenvolvedor de software em um multinacional líder em consultoria de TI, atuando em projetos em outra multinacional líder na exploração e produção de petróleo e gás natural.  <br>
 	</p>
 	<p>
+		<img src="https://komarev.com/ghpvc/?username=KelvinMarcondes&color=58a6ff&style=flat"/><br>
 		Meus idiomas: <br>
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
 		PORTUGUÊS: Nativo (Fluente/avançado) <br>
@@ -18,8 +19,8 @@
 	</p>
 </div> <!-- APRESENTAÇÃO -->
 <div align=center> <!--Painels-->
-	<img width=48% src="https://github-readme-stats.vercel.app/api?username=KelvinMarcondes&show_icons=true&theme=dark"/>
-	<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&layout=compact&theme=dark"/>
+	<img width=48% src="https://github-readme-stats.vercel.app/api?username=KelvinMarcondes&show_icons=true&theme=dark&icon_color=58a6ff&border_color=000000&border_radius=20&title_color=58a6ff&bg_color=151515"/>
+	<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&layout=compact&theme=dark&border_color=000000&border_radius=20&&langs_count=6&title_color=58a6ff"/>
 
 </div> <!--Painels-->
 
