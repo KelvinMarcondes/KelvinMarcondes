@@ -1,6 +1,6 @@
 <div  align=left> <!-- APRESENTAÇÃO -->
 	<h2>
-		Olá, tudo bem? Seja bem-vindo(a)!
+		Olá, tudo bem? Sejam bem-vindos(as)!
 		<img width=25px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
 	</h2>
 	<p>
