@@ -5,9 +5,7 @@
 	</h2>
 	<p>
 		Sobre mim: <br>
-		Me chamo Kelvin, apaixonado por tecnologia desde que me entendo por gente. <br>
-		Já fiz de tudo um pouco, mas atualmente tenho me dedicado ao mundo do desenvolvimento. <br>
-		Cursando o 7° semestre de Ciência da Computação, pela Universidade Anhanguera. <br>
+	Me chamo Kelvin, sou desenvolvedor de software em um multinacional líder em consultoria de TI, atuando em projetos em outra multinacional líder na exploração e produção de petróleo e gás natural.  <br>
 	</p>
 	<p>
 		Meus idiomas: <br>
