@@ -1,25 +1,25 @@
 <div  align=left> <!-- APRESENTAÇÃO -->
 	<h2>
-		Olá, tudo bem? Sejam bem-vindos(as)!
+		Hello. Welcome!
 		<img width=25px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
 	</h2>
 	<p>
-		Sobre mim: <br>
-	Me chamo Kelvin, sou desenvolvedor de software em um multinacional líder em consultoria de TI, atuando em projetos em outra multinacional líder na exploração e produção de petróleo e gás natural.  <br>
+		About me: <br>
+	My name is Kelvin, I'm a software developer at a leading multinational in IT consulting, currently working on projects at another leading multinational in oil and natural gas exploration and production.  <br>
 	</p>
 	<p>
-		<img src="https://komarev.com/ghpvc/?username=KelvinMarcondes&color=58a6ff&style=flat"/><br>
-		Meus idiomas: <br>
+		Languages: <br>
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
-		PORTUGUÊS: Nativo (Fluente/avançado) <br>
+		Portuguese: Native (Fluent/Advanced) <br>
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/united_states_icon_127943.png"/>
-		INGLÊS: B2 (Leitura/Escrita: mediana e Conversação: básica) <br>
+		English: B2 (Reading/Writing: average and Speaking: basic) <br>
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/spain_icon_127825.png"/>
-		ESPANHOL: B2 (Leitura/Escrita: mediana/alta e Conversação: básica++) <br>
+		Spanish: B2 (Reading/Writing: medium and Speaking: basic) <br>
 	</p>
+		<img src="https://komarev.com/ghpvc/?username=KelvinMarcondes&color=58a6ff&style=flat"/><br>
 </div> <!-- APRESENTAÇÃO -->
 <div align=center> <!--Painels-->
-	<img width=48% src="https://github-readme-stats.vercel.app/api?username=KelvinMarcondes&show_icons=true&theme=dark&icon_color=58a6ff&border_color=000000&border_radius=20&title_color=58a6ff&bg_color=151515"/>
+	<img width=48% src="https://github-readme-stats.vercel.app/api?username=KelvinMarcondes&show_icons=true&theme=dark&icon_color=58a6ff&border_color=000000&border_radius=20&title_color=58a6ff&bg_color=151515&custom_title=Kelvin%20Marcondes"/>
 	<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&layout=compact&theme=dark&border_color=000000&border_radius=20&&langs_count=6&title_color=58a6ff"/>
 
 </div> <!--Painels-->
@@ -47,7 +47,7 @@
 ##
 	
 <div align=center> <!--Social-->
-	<p>Fale comigo :)</p>
+	<p>Talk to me :)</p>
 	<a href="https://api.whatsapp.com/send?phone=5511973480829">
 	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
 	</a>
