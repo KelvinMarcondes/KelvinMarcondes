@@ -10,13 +10,13 @@
 		<h3>Languages:</h3>
 		<!---->
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
-		>Portuguese: Native (Fluent/Advanced) <br>
+		Portuguese: Native (Fluent/Advanced) <br>
 		<!---->
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/united_states_icon_127943.png"/>
-		>English: B2 (Reading/Writing: average and Speaking: basic) <br>
+		English: B2 (Reading/Writing: average and Speaking: basic) <br>
 		<!---->
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/spain_icon_127825.png"/>
-		>Spanish: B2 (Reading/Writing: medium and Speaking: basic)
+		Spanish: B2 (Reading/Writing: medium and Speaking: basic)
 	</p>
 </div>
 
@@ -31,7 +31,7 @@
 	<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&layout=compact&theme=dark&border_color=000000&border_radius=20&&langs_count=6&title_color=58a6ff"/>
 </div> <!--Painels-->
 
-##
+---
 
 <div align=center> <!--Ferramentas-->
 	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" title="JAVA" alt="JAVA" widht="40" height="40">
