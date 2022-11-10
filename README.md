@@ -1,26 +1,30 @@
 <div> <!-- APRESENTAÇÃO -->
-	<h2>
+	<h1>
 		Hello. Welcome!
 		<img width=25px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
-	</h2>
+	</h1>
 	<p>
-		About me: <br>
-		My name is Kelvin, I'm a software developer at a leading multinational in IT consulting, currently working on projects at another leading multinational 		in oil and natural gas exploration and production.  <br>
-	</p>
-	<p>
-		Languages: <br>
+		<h3>About me:</h3>
+		My name is Kelvin, I'm a software developer at a leading multinational in IT consulting, currently working on projects at another leading multinational 		in oil and natural gas exploration and production. 
+		<br>
+		<h3>Languages:</h3>
+		<!---->
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
 		Portuguese: Native (Fluent/Advanced) <br>
+		<!---->
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/united_states_icon_127943.png"/>
 		English: B2 (Reading/Writing: average and Speaking: basic) <br>
+		<!---->
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/spain_icon_127825.png"/>
-		Spanish: B2 (Reading/Writing: medium and Speaking: basic) <br>
-	</p>
-	<br>
+		Spanish: B2 (Reading/Writing: medium and Speaking: basic) 
+		<br>
+		<br><!--CONTADOR DE VIEWS-->
 		<img src="https://komarev.com/ghpvc/?username=KelvinMarcondes&color=58a6ff&style=flat"/>
-	<br>
+		<br><!--CONTADOR DE VIEWS-->
+	</p>
 
-</div> <!-- APRESENTAÇÃO -->
+
+</div>
 
 <div align=center> <!--Painels-->
 	<img width=48% src="https://github-readme-stats.vercel.app/api?username=kelvinmarcondes&show_icons=true&theme=dark&icon_color=58a6ff&border_color=000000&border_radius=20&title_color=58a6ff&bg_color=151515&custom_title=Kelvin%20Marcondes"/>
