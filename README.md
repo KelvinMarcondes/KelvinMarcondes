@@ -10,13 +10,13 @@
 		<h3>Languages:</h3>
 		<!---->
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
-		Portuguese: Native (Fluent/Advanced) <br>
+		>Portuguese: Native (Fluent/Advanced) <br>
 		<!---->
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/united_states_icon_127943.png"/>
-		English: B2 (Reading/Writing: average and Speaking: basic) <br>
+		>English: B2 (Reading/Writing: average and Speaking: basic) <br>
 		<!---->
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/spain_icon_127825.png"/>
-		Spanish: B2 (Reading/Writing: medium and Speaking: basic)
+		>Spanish: B2 (Reading/Writing: medium and Speaking: basic)
 	</p>
 </div>
 
