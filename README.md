@@ -30,18 +30,18 @@
 	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" title="JAVA" alt="JAVA" widht="40" height="40"/>
 	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/python_icon_130849.png" title="PYTHON" alt="PYTHON" widht="40" height="40"/>
 	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" title="JS" alt="JS" widht="40" height="40"/>
-	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" title="HTML" alt="HTML" widht="40" height="40"/>
-	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" title="CSS" alt="CSS" widht="40" height="40"/>
+	<img src="https://www.iconninja.com/files/921/873/84/html5-%E2%80%A2-html-icon.png" title="HTML" alt="HTML" widht="40" height="40"/>
+	<img src="https://www.iconninja.com/files/139/505/165/css3-icon.png" title="CSS" alt="CSS" widht="39" height="39"/>
 	<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/vs-code-responsive-01.svg" title="VSCode" alt="VSCode" widht="40" height="40"/>
 	<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" title="Eclipse" alt="Eclipse" widht="40" height="40"/>
+	<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" title="Postman" alt="Postman" height="40"/>
 	<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/netbeans_94416.png" title="NetBeans" alt="NetBeans" widht="40" height="40"/>
 	<img src="https://cdn.icon-icons.com/icons2/183/PNG/256/Dev_22513.png" title="devC++" alt="devC++" widht="42" height="42"/>
 	<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" title="Mysql" alt="Mysql" widht="40" height="40"/>
 	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png" title="OracleDB" alt="OracleDB" widht="38" height="38"/>
-	<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" title="Git" alt="Git" widht="40" height="40"/>
+	<img src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" title="Git" alt="Git" widht="40" height="40"/>
 	<img src="" title="" alt="" height="40"/>
-	<img src="" title="" alt="" height="40"/>
-	<img src="" title="" alt="" height="40"/>
+	<img src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg" title="" alt="" height="40"/>
 </div> <!--Ferramentas-->
 
 ##
