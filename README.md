@@ -16,7 +16,7 @@
 		English: B2 (Reading/Writing: average and Speaking: basic) <br>
 		<!---->
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/spain_icon_127825.png"/>
-		Spanish: B2 (Reading/Writing: medium and Speaking: basic) <br><br>
+		Spanish: B2 (Reading/Writing: medium and Speaking: basic) <br>
 	</p>
 </div>
 
