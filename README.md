@@ -20,7 +20,7 @@
 	</p>
 </div>
 
-##
+---
 
 <div ><!--CONTADOR DE VIEWS-->
 	<img src="https://komarev.com/ghpvc/?username=KelvinMarcondes&color=58a6ff&style=flat"/>
@@ -31,15 +31,9 @@
 	<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&layout=compact&theme=dark&border_color=000000&border_radius=20&&langs_count=6&title_color=58a6ff"/>
 </div> <!--Painels-->
 
----
+##
 
 <div align=center> <!--Ferramentas-->
-	<a href="" target=""><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" 
-alt="IMAGE ALT TEXT HERE" width="" height=""/></a>
-<!--
--->
-<!--Ferramentas-->
-<!--Ferramentas-->
 	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" title="JAVA" alt="JAVA" widht="40" height="40">
 	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/python_icon_130849.png" title="PYTHON" alt="PYTHON" widht="40" height="40">
 	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" title="JS" alt="JS" widht="40" height="40">
