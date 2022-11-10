@@ -20,11 +20,11 @@
 	</p>
 </div>
 
-<div ><!--CONTADOR DE VIEWS-->
-		<img src="https://komarev.com/ghpvc/?username=KelvinMarcondes&color=58a6ff&style=flat"/>
-</div><!--CONTADOR DE VIEWS-->
-
 ##
+
+<div ><!--CONTADOR DE VIEWS-->
+	<img src="https://komarev.com/ghpvc/?username=KelvinMarcondes&color=58a6ff&style=flat"/>
+</div><!--CONTADOR DE VIEWS-->
 
 <div align=center> <!--Painels-->
 	<img width=48% src="https://github-readme-stats.vercel.app/api?username=kelvinmarcondes&show_icons=true&theme=dark&icon_color=58a6ff&border_color=000000&border_radius=20&title_color=58a6ff&bg_color=151515&custom_title=Kelvin%20Marcondes"/>
