@@ -32,7 +32,9 @@
 ##
 
 <div align=center> <!--Ferramentas-->
-	<a href="#"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" title="JAVA" alt="JAVA" widht="40" height="40"/></a>
+	<a href="" img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" title="JAVA" alt="JAVA" widht="40" height="40">
+
+
 	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/python_icon_130849.png" title="PYTHON" alt="PYTHON" widht="40" height="40"/>
 	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" title="JS" alt="JS" widht="40" height="40"/>
 	<img src="https://www.iconninja.com/files/921/873/84/html5-%E2%80%A2-html-icon.png" title="HTML" alt="HTML" widht="40" height="40"/>
@@ -55,19 +57,15 @@
 	<h3>Talk to me :)</h3>
 	<a href="https://api.whatsapp.com/send?phone=5511973480829">
 	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
-	</a>
 	<a href="https://www.linkedin.com/in/kelvin-marcondes/">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
-	</a>
 	<a href="mailto:kelvindesouza@hotmail.com">
 	<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30"/>
-	</a>
 	<a href="https://www.facebook.com/KelvinMarcondees">
 	<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
-	</a>
 	<a href="https://www.instagram.com/kelvinmarcondees/">
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
-	</a>
+
 </div> <!--Social-->
 
 ##
