@@ -1,4 +1,4 @@
-<div  align=left> <!-- APRESENTAÇÃO -->
+<div  text-align=left> <!-- APRESENTAÇÃO -->
 	<h2>
 		Hello. Welcome!
 		<img width=25px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
@@ -20,14 +20,14 @@
 
 </div> <!-- APRESENTAÇÃO -->
 
-<div align=center> <!--Painels-->
+<div text-align=center> <!--Painels-->
 	<img width=48% src="https://github-readme-stats.vercel.app/api?username=kelvinmarcondes&show_icons=true&theme=dark&icon_color=58a6ff&border_color=000000&border_radius=20&title_color=58a6ff&bg_color=151515&custom_title=Kelvin%20Marcondes"/>
 	<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&layout=compact&theme=dark&border_color=000000&border_radius=20&&langs_count=6&title_color=58a6ff"/>
 </div> <!--Painels-->
 
 ##
 
-<div align=center> <!--Ferramentas-->
+<div text-align=center> <!--Ferramentas-->
 	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" title="JAVA" alt="JAVA" widht="40" height="40"/>
 	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/python_icon_130849.png" title="PYTHON" alt="PYTHON" widht="40" height="40"/>
 	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" title="JS" alt="JS" widht="40" height="40"/>
@@ -47,7 +47,7 @@
 
 ##
 	
-<div align=center> <!--Social-->
+<div text-align=center> <!--Social-->
 	<p>Talk to me :)</p>
 	<a href="https://api.whatsapp.com/send?phone=5511973480829">
 	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
