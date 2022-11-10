@@ -3,9 +3,9 @@
 		Hello. Welcome!
 		<img width=25px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
 	</h1>
+	<h3> About me: </h3>
 	<p>
-		<h3>About me:</h3>
-		My name is Kelvin, I'm a software developer at a leading multinational in IT consulting, currently working on projects at another leading multinational in oil and natural gas exploration and production. 
+		My name is Kelvin, I'm a software developer at a leading multinational in IT consulting, currently working on projects at another leading multinational in oil and 		natural gas exploration and production. 
 		<br>
 		<h3>Languages:</h3>
 		<!---->
@@ -52,7 +52,7 @@
 ##
 	
 <div align=center> <!--Social-->
-	<p>Talk to me :)</p>
+	<h3>Talk to me :)</h3>
 	<a href="https://api.whatsapp.com/send?phone=5511973480829">
 	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
 	</a>
