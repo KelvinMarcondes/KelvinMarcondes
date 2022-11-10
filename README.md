@@ -21,7 +21,7 @@
 </div>
 
 <div ><!--CONTADOR DE VIEWS-->
-		<img left=100px width=09% src="https://komarev.com/ghpvc/?username=KelvinMarcondes&color=58a6ff&style=flat"/>
+		<img width=10% src="https://komarev.com/ghpvc/?username=KelvinMarcondes&color=58a6ff&style=flat"/>
 </div><!--CONTADOR DE VIEWS-->
 
 <div align=center> <!--Painels-->
