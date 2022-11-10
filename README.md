@@ -5,7 +5,7 @@
 	</h2>
 	<p>
 		About me: <br>
-	My name is Kelvin, I'm a software developer at a leading multinational in IT consulting, currently working on projects at another leading multinational in oil and natural gas exploration and production.  <br>
+		My name is Kelvin, I'm a software developer at a leading multinational in IT consulting, currently working on projects at another leading multinational 		in oil and natural gas exploration and production.  <br>
 	</p>
 	<p>
 		Languages: <br>
@@ -17,11 +17,12 @@
 		Spanish: B2 (Reading/Writing: medium and Speaking: basic) <br>
 	</p>
 		<img src="https://komarev.com/ghpvc/?username=KelvinMarcondes&color=58a6ff&style=flat"/><br>
-</div> <!-- APRESENTAÇÃO -->
-<div align=center> <!--Painels-->
-	<img width=48% src="https://github-readme-stats.vercel.app/api?username=KelvinMarcondes&show_icons=true&theme=dark&icon_color=58a6ff&border_color=000000&border_radius=20&title_color=58a6ff&bg_color=151515&custom_title=Kelvin%20Marcondes"/>
-	<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&layout=compact&theme=dark&border_color=000000&border_radius=20&&langs_count=6&title_color=58a6ff"/>
 
+</div> <!-- APRESENTAÇÃO -->
+
+<div align=center> <!--Painels-->
+	<img width=48% src="https://github-readme-stats.vercel.app/api?username=kelvinmarcondes&show_icons=true&theme=dark&icon_color=58a6ff&border_color=000000&border_radius=20&title_color=58a6ff&bg_color=151515&custom_title=Kelvin%20Marcondes"/>
+	<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&layout=compact&theme=dark&border_color=000000&border_radius=20&&langs_count=6&title_color=58a6ff"/>
 </div> <!--Painels-->
 
 ##
