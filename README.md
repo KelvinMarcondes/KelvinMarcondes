@@ -5,7 +5,7 @@
 	</h1>
 	<p>
 		<h3>About me:</h3>
-		My name is Kelvin, I'm a software developer at a leading multinational in IT consulting, currently working on projects at another leading multinational 		in oil and natural gas exploration and production. 
+		My name is Kelvin, I'm a software developer at a leading multinational in IT consulting, currently working on projects at another leading multinational in oil and natural gas exploration and production. 
 		<br>
 		<h3>Languages:</h3>
 		<!---->
@@ -16,15 +16,13 @@
 		English: B2 (Reading/Writing: average and Speaking: basic) <br>
 		<!---->
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/spain_icon_127825.png"/>
-		Spanish: B2 (Reading/Writing: medium and Speaking: basic) 
-		<br>
-		<br><!--CONTADOR DE VIEWS-->
-		<img src="https://komarev.com/ghpvc/?username=KelvinMarcondes&color=58a6ff&style=flat"/>
-		<br><!--CONTADOR DE VIEWS-->
+		Spanish: B2 (Reading/Writing: medium and Speaking: basic) <br><br>
 	</p>
-
-
 </div>
+
+<div ><!--CONTADOR DE VIEWS-->
+		<img left=100px width=09% src="https://komarev.com/ghpvc/?username=KelvinMarcondes&color=58a6ff&style=flat"/>
+</div><!--CONTADOR DE VIEWS-->
 
 <div align=center> <!--Painels-->
 	<img width=48% src="https://github-readme-stats.vercel.app/api?username=kelvinmarcondes&show_icons=true&theme=dark&icon_color=58a6ff&border_color=000000&border_radius=20&title_color=58a6ff&bg_color=151515&custom_title=Kelvin%20Marcondes"/>
@@ -47,8 +45,8 @@
 	<img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" title="Mysql" alt="Mysql" widht="40" height="40"/>
 	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png" title="OracleDB" alt="OracleDB" widht="38" height="38"/>
 	<img src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" title="Git" alt="Git" widht="40" height="40"/>
-	<img src="" title="" alt="" height="40"/>
 	<img src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg" title="" alt="" height="40"/>
+	<img src="" title="" alt="" height="40"/>
 </div> <!--Ferramentas-->
 
 ##
