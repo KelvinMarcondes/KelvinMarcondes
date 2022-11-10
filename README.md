@@ -20,6 +20,8 @@
 	</p>
 </div>
 
+##
+
 <div ><!--CONTADOR DE VIEWS-->
 		<img src="https://komarev.com/ghpvc/?username=KelvinMarcondes&color=58a6ff&style=flat"/>
 </div><!--CONTADOR DE VIEWS-->
@@ -32,8 +34,7 @@
 ##
 
 <div align=center> <!--Ferramentas-->
-	<a href="" >
-	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" title="JAVA" alt="JAVA" widht="40" height="40"/>
+	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" title="JAVA" alt="JAVA" widht="40" height="40">
 	<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/python_icon_130849.png" title="PYTHON" alt="PYTHON" widht="40" height="40">
 	<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" title="JS" alt="JS" widht="40" height="40">
 	<img src="https://www.iconninja.com/files/921/873/84/html5-%E2%80%A2-html-icon.png" title="HTML" alt="HTML" widht="40" height="40">
@@ -47,6 +48,7 @@
 	<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png" title="OracleDB" alt="OracleDB" widht="38" height="38">
 	<img src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" title="Git" alt="Git" widht="40" height="40">
 	<img src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg" title="" alt="" height="40">
+	<img src="" title="" alt="" height="40">
 	<img src="" title="" alt="" height="40">
 </div> <!--Ferramentas-->
 
@@ -64,7 +66,6 @@
 	<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
 	<a href="https://www.instagram.com/kelvinmarcondees/">
 	<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
-
 </div> <!--Social-->
 
 ##
