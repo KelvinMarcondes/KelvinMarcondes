@@ -10,25 +10,25 @@
 		<h3>Languages:</h3>
 		<!---->
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/brazil_icon_127818.png"/>
-		Portuguese: Native <br>
+		Portuguese: Native (Fluent/Advanced) <br>
 		<!---->
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/united_states_icon_127943.png"/>
-		English: B2 <br>
+		English: B2 (Reading/Writing: average and Speaking: basic) <br>
 		<!---->
 		<img width=20px src="https://cdn.icon-icons.com/icons2/2087/PNG/512/spain_icon_127825.png"/>
-		Spanish: B2
+		Spanish: B2 (Reading/Writing: medium and Speaking: basic)
 	</p>
 </div>
 
 ##
 
-<div><!--CONTADOR DE VIEWS-->
+<div ><!--CONTADOR DE VIEWS-->
 	<img src="https://komarev.com/ghpvc/?username=KelvinMarcondes&color=58a6ff&style=flat"/>
 </div><!--CONTADOR DE VIEWS-->
 
 <div align=left> <!--Painels-->
-	<img height="200" src="https://github-readme-stats.vercel.app/api?username=kelvinmarcondes&show_icons=true&theme=dark&icon_color=58a6ff&border_color=000000&border_radius=10&title_color=58a6ff&bg_color=151515&custom_title=Kelvin%20Marcondes"/>
-	<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&layout=compact&theme=dark&border_color=000000&border_radius=10&&langs_count=6&title_color=58a6ff"/>
+	<img width=53% src="https://github-readme-stats.vercel.app/api?username=kelvinmarcondes&show_icons=true&theme=dark&icon_color=58a6ff&border_color=000000&border_radius=20&title_color=58a6ff&bg_color=151515&custom_title=Kelvin%20Marcondes"/>
+	<img width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&layout=compact&theme=dark&border_color=000000&border_radius=20&&langs_count=6&title_color=58a6ff"/>
 </div> <!--Painels-->
 
 ##
