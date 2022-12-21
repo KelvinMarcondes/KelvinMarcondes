@@ -5,7 +5,7 @@
 	</h1>
 	<h3> About me: </h3>
 	<p>
-		My name is Kelvin, I'm a software developer at a leading multinational in IT consulting, currently working on projects at another leading multinational in oil and 		natural gas exploration and production. 
+		My name is Kelvin, I'm a software developer at a multinational leader in IT consulting, I'm studying the 8th semester of computer science and I'm passionate about games.
 		<br>
 		<h3>Languages:</h3>
 		<!---->
