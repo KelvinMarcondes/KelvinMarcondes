@@ -11,7 +11,6 @@
 
 - Java developer at IBM with experience in technologies such as Spring Boot, Quarkus, Git and SQL.
 - Bachelor in Computer Science from the University of ABC and studying Systems Analysis and Development at the University of São Paulo.
-<br>
 
 ##
 
