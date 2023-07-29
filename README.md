@@ -27,9 +27,9 @@
 
 <div align=center>
 	<!--PAINEL NOTA-->
-	<img src="https://github-readme-stats.vercel.app/api?username=kelvinmarcondes&show_icons=true&theme=dark&icon_color=58a6ff&border_color=000000&border_radius=20&title_color=58a6ff&bg_color=151515&custom_title=Kelvin%20Marcondes"/>
+	<img width=52% src="https://github-readme-stats.vercel.app/api?username=kelvinmarcondes&show_icons=true&theme=dark&icon_color=58a6ff&border_color=000000&border_radius=20&title_color=58a6ff&bg_color=151515&custom_title=Kelvin%20Marcondes"/>
 	<!--PAINEL LINGUAGENS-->
-	<img width=360px src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&layout=compact&theme=dark&border_color=000000&border_radius=20&&langs_count=6&title_color=58a6ff"/>
+	<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinMarcondes&layout=compact&theme=dark&border_color=000000&border_radius=20&&langs_count=6&title_color=58a6ff"/>
 </div>
 
 ##
