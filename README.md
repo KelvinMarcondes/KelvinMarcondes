@@ -40,7 +40,7 @@
 <table align=center>
 	<tr align=center>
 		<td width=155px>
-			<img src="img/java-icon.png" title="JAVA" alt="JAVA" widht="40" height="40">
+			<img src="img/java-icon.png" title="JAVA" alt="JAVA" height="50">
 		</td>
 		<td width=155px>
 		<img src="img/spring-icon.png" title="SPRING" height="50"/>
@@ -49,7 +49,19 @@
 			<img src="img/quarkus-icon.png" title="QUARKUS" height="50"/>
 		</td>
 		<td width=155px>
+			<img src="img/html-icon.png" title=HTML height="50">
+		</td>
+		<td width=155px>
+			<img src="img/css-icon.png" title=CSS height="50"> 
+		</td>
+		<td width=155px>
+			<img src="img/Angular-icon.png" title="ANGULAR" height="50" style="max-width: 100%;">
+		</td>
+				<td width=155px>
 			<img src="img/sql-icon.png" title="SQL" height="50"/>
+		</td>
+		<td width=155px>
+			<img src="img/git-icon.png" title="GIT" height="50"> 
 		</td>
 	</tr>
 	<tr align=center>
@@ -63,30 +75,6 @@
 			<p style=margin:0 >QUARKUS</p>
 		</td>
 		<td>
-			<p style=margin:0 >SQL</p>
-		</td>
-	</tr>
-	<!--quebra de linha tabela-->
-	<tr>
-		<td colspan="5"></td>
-	</tr>
-	<!--quebra de linha tabela-->
-	<tr align=center>
-		<td width=155px>
-			<img src="img/html5-icon.png" title=HTML height="50">
-		</td>
-		<td width=155px>
-			<img src="img/css3-icon.png" title=CSS height="50"> 
-		</td>
-		<td width=155px>
-			<img src="img/Angular-icon.png" title="POSTMAN" height="50" style="max-width: 100%;">
-		</td>
-		<td width=155px>
-			<img src="img/git-icon.png" title="GIT" height="50"> 
-		</td>
-	</tr>
-	<tr align=center>
-		<td>
 			<p style=margin:0 >HTML</p>
 		</td>
 		<td>
@@ -94,6 +82,9 @@
 		</td>
 		<td>
 			<p style=margin:0 >ANGULAR</p>
+		</td>
+		<td>
+			<p style=margin:0 >SQL</p>
 		</td>
 		<td>
 			<p style=margin:0 >GIT</p>
