@@ -34,9 +34,8 @@
 
 ##
 
-<h3 align=center> 
-	Technologies
-</h3>
+<h3 align=center> Technologies</h3>
+
 <table align=center>
 	<tr align=center>
 		<td width=155px>
